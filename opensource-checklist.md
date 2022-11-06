@@ -41,9 +41,10 @@ Prior to releasing a project to GitHub.com, walk through these items and ensure 
 
 - **Is there a screenshot in the `README`, if applicable?**
 
-## Copy this version to paste into a GitHub issue with live checkboxes
+## Copy this version to paste into
 
-~~~
+## Copy this version to paste into
+
 - [ ] **Has PII been removed?**
   - Use [Clouseau](https://github.com/virtix/clouseau) for scanning source code.
   - If there are images, visually inspect each image to ensure there is no CFPB-specific information.
@@ -59,6 +60,7 @@ Prior to releasing a project to GitHub.com, walk through these items and ensure 
 - [ ] **If applicable and possible, is it set up in TravisCI?**
 - [ ] **Have multiple people reviewed the code?**
 - [ ] **Is there a screenshot in the `README`, if applicable?**
+
 ~~~
 
 ----
