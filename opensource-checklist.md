@@ -3,7 +3,7 @@ layout: base
 title: "Open Source Checklist"
 ---
 
-# <span style="color:green;font-size:150%">&#x2713;</span> Open Source Check List
+
 
 Prior to releasing a project to GitHub.com, walk through these items and ensure they are addressed.
 
@@ -41,8 +41,7 @@ Prior to releasing a project to GitHub.com, walk through these items and ensure 
 
 - **Is there a screenshot in the `README`, if applicable?**
 
-
-## Copy this version to paste into a GitHub issue with live checkboxes:
+## Copy this version to paste into a GitHub issue with live checkboxes
 
 ~~~
 - [ ] **Has PII been removed?**
@@ -64,10 +63,9 @@ Prior to releasing a project to GitHub.com, walk through these items and ensure 
 
 ----
 
+## Take a look at the following projects as good models to follow
 
-## Take a look at the following projects as good models to follow:
-
- - [https://github.com/cfpb/qu](https://github.com/cfpb/qu)
- - [https://github.com/cfpb/idea-box](https://github.com/cfpb/idea-box)
- - [https://github.com/cfpb/hmda-tool](https://github.com/cfpb/hmda-tools)
- - [https://github.com/cfpb/django-cache-tools](https://github.com/cfpb/django-cache-tools)
+- [https://github.com/cfpb/qu](https://github.com/cfpb/qu)
+- [https://github.com/cfpb/idea-box](https://github.com/cfpb/idea-box)
+- [https://github.com/cfpb/hmda-tool](https://github.com/cfpb/hmda-tools)
+- [https://github.com/cfpb/django-cache-tools](https://github.com/cfpb/django-cache-tools)

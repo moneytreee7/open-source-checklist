@@ -4,13 +4,21 @@
 		{
 			"type": "npm",
 			"script": "test",
-			"group": {
-				"kind": "build",
-				"isDefault": true
-			},
+			"group": "build",
 			"problemMatcher": [],
 			"label": "npm: test",
 			"detail": "mocha -R spec"
+		},
+		{
+			"type": "npm",
+			"script": "snyk-protect",
+			"problemMatcher": [],
+			"label": "npm: snyk-protect",
+			"detail": "snyk protect",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
 		}
 	]
 }
